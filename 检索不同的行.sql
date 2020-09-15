@@ -1,0 +1,1 @@
+select distinct vend_id from products;

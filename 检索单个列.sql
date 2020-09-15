@@ -1,0 +1,1 @@
+select prod_name from products;
