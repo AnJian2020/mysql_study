@@ -1,0 +1,4 @@
+USE mysql;
+SELECT USER 
+FROM
+	USER;

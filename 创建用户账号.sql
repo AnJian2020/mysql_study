@@ -1,0 +1,7 @@
+USE mysql;
+CREATE USER whut IDENTIFIED BY 'whut123';
+SELECT
+	* 
+FROM
+	USER;
+RENAME USER whut TO whut2020;

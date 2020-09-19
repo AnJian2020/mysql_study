@@ -1,0 +1,3 @@
+DROP PROCEDURE
+IF
+	EXISTS productpricing;

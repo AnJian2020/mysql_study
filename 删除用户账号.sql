@@ -1,0 +1,1 @@
+DROP USER whut2020;
